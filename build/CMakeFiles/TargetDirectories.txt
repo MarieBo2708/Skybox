@@ -1,0 +1,3 @@
+/media/marie/M1 IMAGINE/M1 MAGINE/P3D/TP/Projet_PBR/skybox/prog-3D-2022/template/build/CMakeFiles/tp.dir
+/media/marie/M1 IMAGINE/M1 MAGINE/P3D/TP/Projet_PBR/skybox/prog-3D-2022/template/build/CMakeFiles/edit_cache.dir
+/media/marie/M1 IMAGINE/M1 MAGINE/P3D/TP/Projet_PBR/skybox/prog-3D-2022/template/build/CMakeFiles/rebuild_cache.dir
